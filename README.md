@@ -1,1 +1,1 @@
-# beautysalon is a study project. 
+# beautysalon
